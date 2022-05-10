@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "excel-date-to-js": "^1.1.4",
+    "exceljs": "^4.3.0",
+    "jsontoxml": "^1.0.1",
+    "jszip": "^3.7.1",
+    "moment": "^2.29.1",
+    "node-cron": "^3.0.0",
+    "path": "^0.12.7",
+    "prepend": "^1.0.2",
+    "vkbeautify": "^0.99.3",
+    "xlsx": "^0.18.4"
+  }
+}
