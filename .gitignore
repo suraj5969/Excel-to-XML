@@ -1,7 +1,9 @@
 node_modules/
 
+dbconfig.js
 files/
-input/
-output/
-logs/
+input*/
+output*/
+logs*/
 silver files/
+BPS Files for XML testing/
